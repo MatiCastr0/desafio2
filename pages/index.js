@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>Hola Mundo</h1>
+        <p>Primer deploy Vercel y next</p>
       </main>
     </div>
   );
